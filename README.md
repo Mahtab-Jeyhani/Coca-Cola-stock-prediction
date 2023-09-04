@@ -1,2 +1,2 @@
 # Coca-Cola-stock-prediction
-predictiong Coca Cola stock with machine learning algorithms
+Predicting Coca-Cola Stock with RBF, Linear, and Polynomial Neural Networks
